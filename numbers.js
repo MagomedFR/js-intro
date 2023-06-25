@@ -1,0 +1,22 @@
+let age = 20;
+let yearBirth = 2002;
+let dateBirth = 26;
+let numberSiblings = 1;
+let numberOfSiblings = 0;
+let numberFfPeopleInTheFamily = 3;
+let theCostOfTravelToThePlaceOfStudy = 33;
+let currentYear = 2023;
+let courseDollar = 84.62;
+let courseEuro = 92.52;
+let courseBitcoin = 2596515.02;
+
+let f1 = currentYear - yearBirth;
+let f2 = currentYear - age;
+let f3 = numberSiblings + numberOfSiblings;
+let f4 = courseEuro * 1000;
+let f5 = courseDollar * 2.5;
+let f6 = courseBitcoin / 10000;
+let f7 = theCostOfTravelToThePlaceOfStudy / courseDollar;
+let f8 = numberFfPeopleInTheFamily - f3;
+let f9 = 0 / age;
+let f10 = 35 - age;
